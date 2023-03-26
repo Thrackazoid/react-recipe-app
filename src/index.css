@@ -1,0 +1,35 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Montserrat", sans-serif;
+}
+
+::placeholder {
+  color: salmon;
+}
+
+body {
+  color-scheme: light dark;
+  color: rgba(255, 255, 255, 0.87);
+  background-color: #242424;
+  margin: 0% 20%;
+}
+
+a {
+}
+
+h1 {
+  font-family: "Lobster Two", cursive;
+}
+
+h3 {
+  text-indent: 5px;
+  line-height: 2.5rem;
+  margin: 2rem 0rem;
+}
+
+h4 {
+  font-size: 1rem;
+  color: rgb(56, 56, 56);
+}
